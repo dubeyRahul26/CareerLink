@@ -1,0 +1,31 @@
+# Node backend
+node-backend/node_modules/
+node-backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+
+# Python
+python-service/.venv/
+python-service/venv/
+python-service/__pycache__/
+python-service/.env
+
+# Logs
+*.log
+logs/
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
